@@ -138,7 +138,7 @@
     </div>
 
   <div data-scroll data-scroll-speed="0.15" class="w-80 h-40 mx-auto rounded-xl mt-24 grid place-items-center">
-    <button class="hover:scale-125 transition-all duration-500 ease-in-out w-80 h-32 text-5xl bg-emerald-400 text-white font-extrabold p-6 rounded-xl shadow-xl">
+    <button on:click={()=>{window.location = "https://forms.gle/V2Ldsfrjyp9nTgST7"}} class="hover:scale-125 transition-all duration-500 ease-in-out w-80 h-32 text-5xl bg-emerald-400 text-white font-extrabold p-6 rounded-xl shadow-xl">
       Apply Now
     </button>
   </div>
