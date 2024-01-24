@@ -49,7 +49,7 @@
     </div>
     
     <!-- About section -->
-    <div data-scroll data-scroll-speed="0.3" class="flex flex-col mt-[19rem] h-fit">
+    <div data-scroll data-scroll-speed="0.3" class="flex flex-col mt-[20rem] h-fit">
       <div data-scroll data-scroll-speed="0.15" class="bg-white border-2 shadow-xl w-fit p-2 text-5xl font-extrabold">
         <span class="font-bold">
           &#60;h1&#62;
@@ -59,7 +59,7 @@
           &#60;/h1&#62;
         </span>
       </div>
-      <div class="flex gap-32">
+      <div class="flex gap-32 -mt-12">
         <div data-scroll data-scroll-speed="0.25" class="tracking-[0.00125em] leading-[2.125rem] text-emerald-950 font-semibold shadow-xl w-[60%] h-fit bg-emerald-400 rounded-2xl text-2xl p-4 px-6">
           The Leigh Hackathon is a coding competition in which contestants will work in teams to create an application that effectively fulfills a prompt, which will be provided at the beginning of the event. Each submission will be judged, and prizes will be awarded to the winners of the competition.
           <br/><br/>
@@ -67,7 +67,7 @@
         </div>
         <div class="flex flex-col">
           <img data-scroll data-scroll-speed="0.3" class="z-30 w-72 border-2 border-black rounded-md shadow-xl bg-green-300" src="https://mail.google.com/mail/u/0?ui=2&ik=2dcb0da396&attid=0.2&permmsgid=msg-a:r-9216735021911787990&th=18d38ccac71c93be&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-rJsz61EPjl1SYjCRZfDcwi5pMiuqvRp0nFx8WpyCrKbnEm5cmEcvjKAKNaCGmte72bDQm8ghRGMmBmsZrN5Yrd4GuzLnO7HBTPxwtb6hq6QO-JVJ7_MAQdnc&disp=emb&realattid=ii_lrr11ghc1" alt="people at hackathon">
-          <img data-scroll data-scroll-speed="0.4" class="z-30 w-72 border-2 border-black rounded-md shadow-xl bg-green-400 ml-12 -mt-24" src="https://mail.google.com/mail/u/0?ui=2&ik=2dcb0da396&attid=0.3&permmsgid=msg-a:r-9216735021911787990&th=18d38ccac71c93be&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_t2qknO6fQbQQ811nJVRDWQMzwlN-n3kT1BuvvZKZPX6qNu0deI3oqV4RA4D4kGMlL5r13zq-9x-OA0UcG48L52rR1dr9qAC6ahydj2fud0pXE6rcbK8xZm0k&disp=emb&realattid=ii_lrr121bc2" alt="people at hackathon">
+          <img data-scroll data-scroll-speed="0.4" class="z-30 w-72 border-2 border-black rounded-md shadow-xl bg-green-400 ml-12" src="https://mail.google.com/mail/u/0?ui=2&ik=2dcb0da396&attid=0.3&permmsgid=msg-a:r-9216735021911787990&th=18d38ccac71c93be&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_t2qknO6fQbQQ811nJVRDWQMzwlN-n3kT1BuvvZKZPX6qNu0deI3oqV4RA4D4kGMlL5r13zq-9x-OA0UcG48L52rR1dr9qAC6ahydj2fud0pXE6rcbK8xZm0k&disp=emb&realattid=ii_lrr121bc2" alt="people at hackathon">
         </div>
       </div>
     </div>
@@ -86,7 +86,7 @@
       <div class="flex gap-32">
         <div class="flex flex-col">
           <img data-scroll data-scroll-speed="0.3" class="z-30 w-72 border-2 border-black rounded-md shadow-xl bg-green-300" src="https://mail.google.com/mail/u/0?ui=2&ik=2dcb0da396&attid=0.1&permmsgid=msg-a:r-3988775677834574465&th=18d38c7f3f7a85cf&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ82VIbvxKZ5FfnY9XLp6NhgdP81n8P8sCmVikJop2QCAGS3OJK5fPLSmNV0AingQLL8m09BaArpKy0hel86QXP8HTXIE7-oBQsozzUb-M1kSCUhqpNHntghXM0&disp=emb&realattid=ii_lrr0vuay0" alt="people at hackathon">
-          <img data-scroll data-scroll-speed="0.4" class="z-30 w-72 border-2 border-black rounded-md shadow-xl bg-green-400 ml-12 -mt-24" src="https://mail.google.com/mail/u/0?ui=2&ik=2dcb0da396&attid=0.4&permmsgid=msg-a:r-9216735021911787990&th=18d38ccac71c93be&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ__-a-wTRim582HRKVKpaHBkSE3FZPdybgkesJToDi2k3t3_EPFJevKyFDdmkpRNapFp3MKPshRX2quIIb1GHXx8WG6pIQfEfU38D--ukcWBGPSeRpKrKNKHF4&disp=emb&realattid=ii_lrr12gm83" alt="people at hackathon">
+          <img data-scroll data-scroll-speed="0.4" class="z-30 w-72 border-2 border-black rounded-md shadow-xl bg-green-400 ml-12" src="https://mail.google.com/mail/u/0?ui=2&ik=2dcb0da396&attid=0.4&permmsgid=msg-a:r-9216735021911787990&th=18d38ccac71c93be&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ__-a-wTRim582HRKVKpaHBkSE3FZPdybgkesJToDi2k3t3_EPFJevKyFDdmkpRNapFp3MKPshRX2quIIb1GHXx8WG6pIQfEfU38D--ukcWBGPSeRpKrKNKHF4&disp=emb&realattid=ii_lrr12gm83" alt="people at hackathon">
         </div>
         <div data-scroll data-scroll-speed="0.35" class="tracking-[0.00125em] leading-[2.125rem] text-emerald-950 font-semibold shadow-xl w-[70%] h-fit bg-emerald-400 rounded-2xl text-2xl p-4 px-6">
           <span class="font-extrabold text-4xl">Is prior experience required?</span> <br/>
