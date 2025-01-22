@@ -32,7 +32,7 @@
     <!-- Hero type stuff -->
     <div  class="-mt-12 flex flex-col h-[90vh] z-50 gap-4 justify-center">
       <div data-scroll data-scroll-speed="0.3" class="text-center text-2xl text-amber-600 italic z-30">Welcome to the third annual</div>
-      <div data-scroll data-scroll-speed="0.2" class="text-center text-7xl text font-bold">Longhorn Hackathon</div>
+      <div data-scroll data-scroll-speed="0.2" class="text-center text-7xl text font-bold">Longhorn Hacks</div>
       <div data-scroll data-scroll-speed="0.15" class="grid grid-cols-3 grid-rows-1 w-[52rem] mx-auto text-amber-600 mb-8">
         <div class="text-left">Hosted by Longhorn Robotics #13274</div>
         <div class="text-center">February 24, 2025</div>
@@ -42,7 +42,7 @@
 
 
   
-      <a target="_blank" href="https://longhorn-hacks.devpost.com/" class="box mx-auto scale-[1.25] border-2 bg-stone-900 bg-opacity-50 border-amber-500 w-fit p-2 px-8 font-bold italic rounded-2xl hover:scale-[1.3] transition-all duration-500 ease-in-out">
+      <a target="_blank" href="https://forms.gle/paHNwVQv9yuL3kqx8" class="box mx-auto scale-[1.25] border-2 bg-stone-900 bg-opacity-50 border-amber-500 w-fit p-2 px-8 font-bold italic rounded-2xl hover:scale-[1.3] transition-all duration-500 ease-in-out">
         <span class="text2">Register&nbsp Now</span>
       </a>
     </div>
@@ -64,9 +64,9 @@
       </div>
       <div class="flex gap-32 -mt-8">
         <div data-scroll data-scroll-speed="0.25" class="tracking-[0.00125em] leading-[2.125rem] text-white shadow-xl w-[60%] h-fit bg-opacity-15 bg-amber-100 border-2 border-amber-600 rounded-2xl text-2xl p-4 px-6">
-          The Longhorn Hackathon is a coding competition in which contestants will work in teams to create an application that effectively fulfills a prompt, which will be provided at the beginning of the event. Each submission will be judged, and prizes will be awarded to the winners of the competition.
+          Longhorn Hacks is a coding competition in which contestants will work in teams to create an application that effectively fulfills a prompt, which will be provided at the beginning of the event. Each submission will be judged, and prizes will be awarded to the winners of the competition.
           <br/><br/>
-          The Longhorn Hackathon is a great opportunity to compete in a friendly competition, with low stakes and high educational value. During the competition, members of the Leigh Robotics Team will be available should you need any assistance.
+          Longhorn Hacks is a great opportunity to compete in a friendly competition, with low stakes and high educational value. During the competition, members of the Leigh Robotics Team will be available should you need any assistance.
         </div>
         <div class="flex flex-col">
           <img data-scroll data-scroll-speed="0.3" class="z-30 w-72 border-2 border-black rounded-md shadow-xl bg-green-300" src={presenting} alt="people at hackathon">
@@ -149,7 +149,7 @@
 
     </div>
 
-  <a target="_blank" href="https://longhorn-hacks.devpost.com/" class="mt-[10rem] box mx-auto scale-[2] border-2 bg-stone-900 bg-opacity-50 border-amber-500 w-fit p-2 px-8 font-bold italic rounded-2xl hover:scale-[2.1] transition-all duration-500 ease-in-out">
+  <a target="_blank" href="https://forms.gle/paHNwVQv9yuL3kqx8" class="mt-[10rem] box mx-auto scale-[2] border-2 bg-stone-900 bg-opacity-50 border-amber-500 w-fit p-2 px-8 font-bold italic rounded-2xl hover:scale-[2.1] transition-all duration-500 ease-in-out">
     <span class="text2">Register&nbsp Now</span>
   </a>
   <div  class="mt-64 grid place-items-center text-amber-300 italic opacity-75">
