@@ -35,7 +35,7 @@
       <div data-scroll data-scroll-speed="0.2" class="text-center text-7xl text font-bold">Longhorn Hacks</div>
       <div data-scroll data-scroll-speed="0.15" class="grid grid-cols-3 grid-rows-1 w-[52rem] mx-auto text-amber-600 mb-8">
         <div class="text-left">Hosted by Longhorn Robotics #13274</div>
-        <div class="text-center">February 24, 2025</div>
+        <div class="text-center">March 8, 2025</div>
         <div class="text-right">Leigh High School Cafeteria</div>
       </div>
 
