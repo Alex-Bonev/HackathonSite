@@ -21,7 +21,7 @@
 
 </script>
 
-<main class="p-12 h-[2800px] w-full overflow-x-hidden relative bg-gradient-to-tl from-black to-[#34312e] z-0">
+<main class="p-12 h-[3600px] w-full overflow-x-hidden relative bg-gradient-to-tl from-black to-[#34312e] z-0">
 
     <!-- <div class="absolute -left-12 top-[38rem] w-[110%] h-64 -rotate-3 bg z-10"></div> -->
      <div class="-skew-y-6 scale-110">
@@ -147,6 +147,72 @@
 
       </div>
 
+    </div>
+
+    <div class="flex flex-col h-fit place-items-end mt-12">
+      <div data-scroll data-scroll-speed="0.3" class="boxheader text-white bg-white border-2 shadow-xl w-fit p-2 text-5xl">
+        <span class="">
+          &#60;h1&#62;
+        </span>
+        <span>Sponsors</span>
+        <span class="">
+          &#60;/h1&#62;
+        </span>
+      </div>
+      <div class="grid grid-cols-2 gap-8 -mt-8 w-full" data-scroll data-scroll-speed="0.25">
+        <div class="flex border-amber-300 border-2 rounded-lg shadow-sm shadow-amber-200">
+          <div class="bg-white flex place-items-center h-full p-2 min-w-48 max-w-52 my-auto">
+            <img class="" alt="rotary" src="https://clubrunner.blob.core.windows.net/00000005083/PhotoAlbum/PhotoLogo/rotary-logos/10987757_835004576589136_3248972892690988353_o.png"/>
+          </div>
+          <div class="text-white p-2">
+            The Rotary Club of Los Gatos’s annual grant funds our Longhorn Hackathon, covering food, prizes, and STEM activities. It also ensures we can purchase essential robot components and maintain a reliable fund for timely part acquisitions each year; avoiding sponsorship delays.
+          </div>
+        </div>
+        <div class="flex border-amber-300 border-2 rounded-lg shadow-sm shadow-amber-200">
+          <div class="bg-white flex place-items-center h-full p-2 min-w-48 max-w-52 my-auto">
+            <img class="" alt="summer springboard" src="https://summerspringboard.com/wp-content/uploads/SSB_Logo_Vert_Hi.jpg"/>
+          </div>
+          <div class="text-white p-2">
+            This year Longhorn Robotics is proud to announce our partnership with the Bay Area Pre-College program, Summer Springboard! We are closely aligned in our shared goal of delivering a practical education to students. Their contribution enabled us to fully equip our two learning team with an FTC starter kit to provide them with firsthand project build experience necessary for their future, both in and outside the club!
+          </div>
+        </div>
+        <div class="flex border-amber-300 border-2 rounded-lg shadow-sm shadow-amber-200">
+          <div class="bg-white flex place-items-center h-full p-2 min-w-72 my-auto">
+            <img class="" alt="Micron" src="https://1000logos.net/wp-content/uploads/2020/05/Micron-Logo.png"/>
+          </div>
+          <div class="text-white p-2">
+            We’re honored to partner with Micron Technology, a leader in advanced semiconductor manufacturing! Their focus on unique experiences driving innovation aligns perfectly with our inventive spirit. This partnership enabled us to fund equipment for our robot, including beams, servo motors, and a second linear rail kit for the outtake system. As well as reinvesting the money into REV hubs for our Learning Teams 
+          </div>
+        </div>
+        <div class="flex border-amber-300 border-2 rounded-lg shadow-sm shadow-amber-200">
+          <div class="bg-white flex place-items-center h-full p-2 min-w-48 max-w-52 my-auto">
+            <img class="" alt="Leigh" src="https://img1.wsimg.com/isteam/ip/9923d808-cde6-4e3b-8650-f1b6df85175e/403c3d6d-831b-4744-8e2a-43f766c7caaa.jpg"/>
+          </div>
+          <div class="text-white p-2">
+            Promoting greater STEM education in our community would not be possible without the support of the Leigh Home and School Club. Over the years, they have provided funding for our robot, outreach opportunities like hosting our 12-hour hackathon, and connections with local middle schools. Their annual grant also enables us to plan and purchase parts as early as summer.
+          </div>
+        </div>
+        <div class="flex border-amber-300 border-2 rounded-lg shadow-sm shadow-amber-200">
+          <div class="bg-white flex place-items-center h-full p-2 min-w-48 max-w-52 my-auto">
+            <img class="" alt="Crumbl Cookies" src="https://www.shopsofsaddlecreek.com/wp-content/uploads/2021/06/Crumbl.png"/>
+          </div>
+          <div class="text-white p-2">
+            The Longhorn Robotics club’s outreach collaborated with Crumbl Cookie for a successful restaurant fundraiser. The funds raised through this partnership were reinvested into purchasing a starter REV kit, empowering our learning teams with hands-on resources to advance their skills and opening up new opportunities for innovation. 
+          </div>
+        </div>
+        <div class="flex border-amber-300 border-2 rounded-lg shadow-sm shadow-amber-200">
+          <div class="bg-white flex place-items-center h-full p-2 min-w-48 max-w-52 my-auto">
+            <div class="flex flex-col">
+              <img class="" alt="Interview Cake" src="https://www.assertnotmagic.com/img/interview-cake.jpg"/>
+              <img class="" alt="desmos" src="https://preview.redd.it/8l1kzoyzqyd61.png?width=7652&format=png&auto=webp&s=dd45ed1fbf251fa60475170d68b2fa9c1178762b"/>
+
+            </div>
+          </div>
+          <div class="text-white p-2">
+            Prizes are a significant cost of our annual hackathon, so this year we’ve partnered with three companies: Interview Cake, providing full-access licenses for coding prep courses; Desmos, offering a swag pack; and Interview Buddy, supplying GenAI mock interviews, feedback reports, and discount vouchers for attendees and winners. We plan to distribute those resources to our JV teams to prepare them for the competition the following year 
+          </div>
+        </div>
+      </div>
     </div>
 
   <a target="_blank" href="https://forms.gle/paHNwVQv9yuL3kqx8" class="mt-[10rem] box mx-auto scale-[2] border-2 bg-stone-900 bg-opacity-50 border-amber-500 w-fit p-2 px-8 font-bold italic rounded-2xl hover:scale-[2.1] transition-all duration-500 ease-in-out">
